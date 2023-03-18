@@ -1,0 +1,26 @@
+main_category ,goal ,state ,backers ,country ,pledged,usd_pledge 
+Publishing,1000,failed,0,GB,0,0
+FilmVideo,45000,failed,3,US,220,220
+Music,5000,failed,1,US,1,1
+Food,50000,successful,224,US,52375,52375
+Food,1000,successful,16,US,1205,1205
+Food,25000,failed,40,US,453,453
+Publishing,2500,failed,0,CA,0,0
+Music,12500,successful,100,US,12700,12700
+Crafts,5000,failed,0,US,0,0
+Games,200000,failed,0,US,0,0
+Design,2500,failed,11,US,664,664
+Comics,1500,failed,16,US,395,395
+Publishing,3000,failed,20,US,789,789
+Music,250,successful,7,US,250,250
+Food,5000,failed,40,US,1781,1781
+Fashion,20000,successful,624,US,34268,34268
+Theater,3500,failed,12,US,650,650
+Food,500,failed,3,NO,48,6.18000816
+Comics,175,successful,66,US,701.66,701.66
+Music,10000,successful,147,US,15827,15827
+Crafts,12000,failed,0,GB,0,0
+FilmVideo,17757,successful,571,CA,48905,43203.25114
+Comics,100,successful,27,GB,112.38,167.7003058
+Food,3500,failed,1,GB,21,32.41526106
+Design,1000,successful,549,US,47266,11253
